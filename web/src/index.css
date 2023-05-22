@@ -1,0 +1,49 @@
+/**
+ * START --- SETUP TAILWINDCSS EDIT
+ *
+ * `yarn rw setup ui tailwindcss` placed these imports here
+ * to inject Tailwind's styles into your CSS.
+ * For more information, see: https://tailwindcss.com/docs/installation#include-tailwind-in-your-css
+ */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+/**
+ * END --- SETUP TAILWINDCSS EDIT
+ */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+body {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: 'Inter', sans-serif;
+}
+
+.shimmer {
+  text-align: center;
+  color: rgba(255, 255, 255, 0.8);
+  background: -webkit-gradient(linear, left top, right top, from(#222), to(#222), color-stop(0.5, #B7C470));
+  background: -moz-gradient(linear, left top, right top, from(#222), to(#222), color-stop(0.5, #B7C470));
+  background: gradient(linear, left top, right top, from(#222), to(#222), color-stop(0.5, #B7C470));
+  background-size: 125px 100%;
+  background-clip: text;
+  animation-name: shimmer;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-color: #222;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: top left;
+  }
+
+  50% {
+    background-position: top right;
+  }
+
+  100% {
+    background-position: top left;
+  }
+}
