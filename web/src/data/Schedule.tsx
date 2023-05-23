@@ -172,6 +172,28 @@ export const Schedule: Day[] = [
             </p>
             <p className="mb-2">
               <a
+                href="#"
+                target="_blank"
+                rel="noreferrer"
+                className="underline text-blue-400 hover:text-blue-500"
+              >
+                Teamstream
+              </a>
+              : Kris Coulson
+            </p>
+            <p className="mb-2">
+              <a
+                href="https://konfigthis.com"
+                target="_blank"
+                rel="noreferrer"
+                className="underline text-blue-400 hover:text-blue-500"
+              >
+                Konfig
+              </a>
+              : Anh-Tuan Bui
+            </p>
+            <p className="mb-2">
+              <a
                 href="https://snaplet.dev"
                 target="_blank"
                 rel="noreferrer"
@@ -180,6 +202,28 @@ export const Schedule: Day[] = [
                 Snaplet
               </a>
               : Peter Pistorius
+            </p>
+            <p className="mb-2">
+              <a
+                href="https://nous.co"
+                target="_blank"
+                rel="noreferrer"
+                className="underline text-blue-400 hover:text-blue-500"
+              >
+                Nous
+              </a>
+              Lee Staples
+            </p>
+            <p className="mb-2">
+              <a
+                href="https://everfund.com"
+                target="_blank"
+                rel="noreferrer"
+                className="underline text-blue-400 hover:text-blue-500"
+              >
+                Everfund
+              </a>
+              : Christopher Burns
             </p>
           </>
         ),
