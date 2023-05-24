@@ -165,7 +165,7 @@ export const Schedule: Day[] = [
             </p>
             <p className="mb-2">
               <a
-                href="#"
+                href="https://constellationnotes.com/"
                 target="_blank"
                 rel="noreferrer"
                 className="underline text-blue-400 hover:text-blue-500"

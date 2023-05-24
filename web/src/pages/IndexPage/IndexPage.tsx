@@ -30,7 +30,7 @@ const Overview = () => (
     <div className="mb-6 text-center">
       <h2 className="mb-3 text-4xl font-bold">RedwoodJS Showcase on May 30!</h2>
       <h3 className="mb-3 text-2xl font-medium italic">Product and Startup Demos</h3>
-      <h3 className="mb-4 text-2xl font-medium italic">Followed by a <span className='font-bold'>Big</span> Announcement</h3>
+      <h3 className="mb-4 text-2xl font-medium italic">Followed by two <span className='font-bold'>Big</span> Announcements</h3>
     </div>
 
     <div className="mt-6 mb-6">
