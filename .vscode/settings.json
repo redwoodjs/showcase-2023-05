@@ -8,13 +8,6 @@
   "[prisma]": {
     "editor.formatOnSave": true
   },
-  "cSpell.words": [
-    "Planetscale",
-    "redwoodjs",
-    "semibold",
-    "Supabase",
-    "wouldn"
-  ],
   "workbench.colorCustomizations": {
     "activityBar.background": "#5D0630",
     "titleBar.activeBackground": "#830944",

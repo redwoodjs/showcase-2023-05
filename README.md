@@ -1,6 +1,6 @@
-# Redwood V1 Launch Week
+# Redwood Showcase May 2023
 
-Website for Redwood V1 Launch Week. Built with RedwoodJS (of course).
+Website RedwoodJS Showcase 2023. Built with RedwoodJS (of course).
 
 ### Setup
 
