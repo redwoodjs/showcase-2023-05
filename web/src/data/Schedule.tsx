@@ -33,6 +33,28 @@ export const Schedule: Day[] = [
             </p>
             <p className="mb-2">
               <a
+                href="https://snaplet.dev"
+                target="_blank"
+                rel="noreferrer"
+                className="underline text-blue-400 hover:text-blue-500"
+              >
+                Snaplet
+              </a>
+              &nbsp;Peter Pistorius
+            </p>
+            <p className="mb-2">
+              <a
+                href="https://nous.co"
+                target="_blank"
+                rel="noreferrer"
+                className="underline text-blue-400 hover:text-blue-500"
+              >
+                Nous
+              </a>
+              &nbsp;Lee Staples
+            </p>
+            <p className="mb-2">
+              <a
                 href="https://datasketch.co"
                 target="_blank"
                 rel="noreferrer"
@@ -55,6 +77,28 @@ export const Schedule: Day[] = [
             </p>
             <p className="mb-2">
               <a
+                href="https://buildpass.com.au"
+                target="_blank"
+                rel="noreferrer"
+                className="underline text-blue-400 hover:text-blue-500"
+              >
+                BuildPass
+              </a>
+              &nbsp;Matt Perrott
+            </p>
+            <p className="mb-2">
+              <a
+                href="https://www.majr.app"
+                target="_blank"
+                rel="noreferrer"
+                className="underline text-blue-400 hover:text-blue-500"
+              >
+                majr
+              </a>
+              &nbsp;Jamie Cannon
+            </p>
+            <p className="mb-2">
+              <a
                 href="http://joinatlas.ai"
                 target="_blank"
                 rel="noreferrer"
@@ -71,7 +115,7 @@ export const Schedule: Day[] = [
                 rel="noreferrer"
                 className="underline text-blue-400 hover:text-blue-500"
               >
-                LeftLane Software
+                LeftLane
               </a>
               &nbsp;Michael Mentele
             </p>
@@ -82,20 +126,9 @@ export const Schedule: Day[] = [
                 rel="noreferrer"
                 className="underline text-blue-400 hover:text-blue-500"
               >
-                Diagon Technologies, Ltd
+                Diagon
               </a>
               &nbsp;Shridharan (Shri) Muthu
-            </p>
-            <p className="mb-2">
-              <a
-                href="#"
-                target="_blank"
-                rel="noreferrer"
-                className="underline text-blue-400 hover:text-blue-500"
-              >
-                Pullflow
-              </a>
-              &nbsp;Zak Mandhro
             </p>
             <p className="mb-2">
               <a
@@ -132,28 +165,6 @@ export const Schedule: Day[] = [
             </p>
             <p className="mb-2">
               <a
-                href="https://buildpass.com.au"
-                target="_blank"
-                rel="noreferrer"
-                className="underline text-blue-400 hover:text-blue-500"
-              >
-                BuildPass
-              </a>
-              &nbsp;Matt Perrott
-            </p>
-            <p className="mb-2">
-              <a
-                href="https://www.majr.app"
-                target="_blank"
-                rel="noreferrer"
-                className="underline text-blue-400 hover:text-blue-500"
-              >
-                majr
-              </a>
-              &nbsp;Jamie Cannon
-            </p>
-            <p className="mb-2">
-              <a
                 href="#"
                 target="_blank"
                 rel="noreferrer"
@@ -165,7 +176,7 @@ export const Schedule: Day[] = [
             </p>
             <p className="mb-2">
               <a
-                href="#"
+                href="https://statapillar.com/"
                 target="_blank"
                 rel="noreferrer"
                 className="underline text-blue-400 hover:text-blue-500"
@@ -176,7 +187,7 @@ export const Schedule: Day[] = [
             </p>
             <p className="mb-2">
               <a
-                href="#"
+                href="http://teamstream.gg"
                 target="_blank"
                 rel="noreferrer"
                 className="underline text-blue-400 hover:text-blue-500"
@@ -198,28 +209,6 @@ export const Schedule: Day[] = [
             </p>
             <p className="mb-2">
               <a
-                href="https://snaplet.dev"
-                target="_blank"
-                rel="noreferrer"
-                className="underline text-blue-400 hover:text-blue-500"
-              >
-                Snaplet
-              </a>
-              &nbsp;Peter Pistorius
-            </p>
-            <p className="mb-2">
-              <a
-                href="https://nous.co"
-                target="_blank"
-                rel="noreferrer"
-                className="underline text-blue-400 hover:text-blue-500"
-              >
-                Nous
-              </a>
-              &nbsp;Lee Staples
-            </p>
-            <p className="mb-2">
-              <a
                 href="https://everfund.com"
                 target="_blank"
                 rel="noreferrer"
@@ -228,6 +217,17 @@ export const Schedule: Day[] = [
                 Everfund
               </a>
               &nbsp;Christopher Burns
+            </p>
+            <p className="mb-2">
+              <a
+                href="https://pullflow.com"
+                target="_blank"
+                rel="noreferrer"
+                className="underline text-blue-400 hover:text-blue-500"
+              >
+                Pullflow
+              </a>
+              &nbsp;Zak Mandhro
             </p>
           </>
         ),
