@@ -220,6 +220,17 @@ export const Schedule: Day[] = [
             </p>
             <p className="mb-2">
               <a
+                href="#"
+                target="_blank"
+                rel="noreferrer"
+                className="underline text-blue-400 hover:text-blue-500"
+              >
+                Today
+              </a>
+              &nbsp;Thomas Seillan
+            </p>
+            <p className="mb-2">
+              <a
                 href="https://pullflow.com"
                 target="_blank"
                 rel="noreferrer"
