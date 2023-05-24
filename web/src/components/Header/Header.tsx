@@ -21,7 +21,9 @@ const Header = () => {
           <h1 className="text-5xl font-bold md:text-6xl">
             RedwoodJS
             <br />
-            <span className="font-bold text-9xl shimmer">Showcase</span>
+            <span className="font-bold leading-normal text-5xl md:text-7xl lg:text-9xl shimmer">
+              Showcase
+            </span>
           </h1>
         </div>
       </div>
