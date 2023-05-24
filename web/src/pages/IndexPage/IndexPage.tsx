@@ -28,14 +28,14 @@ const IndexPage = () => {
 const Overview = () => (
   <div>
     <div className="mb-6 text-center">
-      <h1 className="mb-3 text-4xl font-bold">RedwoodJS Showcase on May 30!</h1>
-      <h2 className="mb-3 text-2xl font-medium italic">Product and Startup Demos</h2>
-      <h2 className="mb-4 text-2xl font-medium italic">Followed by a <span className='font-bold'>Big</span> Announcement</h2>
+      <h2 className="mb-3 text-4xl font-bold">RedwoodJS Showcase on May 30!</h2>
+      <h3 className="mb-3 text-2xl font-medium italic">Product and Startup Demos</h3>
+      <h3 className="mb-4 text-2xl font-medium italic">Followed by a <span className='font-bold'>Big</span> Announcement</h3>
     </div>
 
     <div className="mt-6 mb-6">
       <div className="p-4 text-center">
-        <h3 className="mb-4 text-3xl font-bold">📫 You&apos;re invited!</h3>
+        <h4 className="mb-4 text-3xl font-bold">📫 You&apos;re invited!</h4>
         <p className="mb-2 text-xl">
           Free&nbsp;
           <a
