@@ -51,6 +51,7 @@ const Event = ({ event }) => (
           {toLocalTime(event.endTime)}
         </span>
       )}
+      <p><span className='italic text-xs'>(your local time)</span></p>
     </div>
     <div className="col-span-4">
       <div className="font-bold text-xl mb-2">{event.title}</div>

@@ -5,11 +5,11 @@ export const Schedule: Day[] = [
     events: [
       {
         time: new Date(Date.UTC(2023, 4, 30, 16, 0)),
-        endTime: new Date(Date.UTC(2023, 4, 30, 18, 0)),
-        title: 'Redwood Startup Showcase',
+        endTime: new Date(Date.UTC(2023, 4, 30, 18, 30)),
+        title: 'Product and Startup Demos',
         description: (
           <>
-            <div className="mt-4 mb-4 ml-4">
+            {/* <div className="mt-4 mb-4 ml-4">
               <div className="p-3 border-l-2 ">
                 <a
                   className="text-blue-400 underline"
@@ -18,14 +18,18 @@ export const Schedule: Day[] = [
                   Watch the Recorded Event on YouTube
                 </a>
               </div>
-            </div>
+            </div> */}
             <p className="mb-4">
-              Startups built with Redwood have raised over $60M. 🤯 Come watch
-              both funded startups and indie devs share their experience with
-              Redwood and the community.
+              Startups built with Redwood have raised over $60M. 🤯
+              Come watch both funded startups and indie devs share
+              their demos and experience with the community.
             </p>
-            <p className="mb-2 mt-6">
-              <span className="font-bold">Demos</span>:<br />
+            <p>
+              📣 A <span className="font-bold">BIG</span> announcement to follow the presentations!
+            </p>
+            <p className="mb-3 mt-6">
+              <span className="font-bold text-xl">Participants</span><br />
+              <span className="italic text-sm">not listed in order of appearance</span>
             </p>
             <p className="mb-2">
               <a
@@ -36,7 +40,7 @@ export const Schedule: Day[] = [
               >
                 Datasketch
               </a>
-              : Juan Pablo Marin Diaz
+              &nbsp;Juan Pablo Marin Diaz
             </p>
             <p className="mb-2">
               <a
@@ -47,7 +51,7 @@ export const Schedule: Day[] = [
               >
                 ItList
               </a>
-              : Paul Korver
+              &nbsp;Paul Korver
             </p>
             <p className="mb-2">
               <a
@@ -58,7 +62,7 @@ export const Schedule: Day[] = [
               >
                 ATLAS
               </a>
-              : Matt Dupree
+              &nbsp;Matt Dupree
             </p>
             <p className="mb-2">
               <a
@@ -69,7 +73,7 @@ export const Schedule: Day[] = [
               >
                 LeftLane Software
               </a>
-              : Michael Mentele
+              &nbsp;Michael Mentele
             </p>
             <p className="mb-2">
               <a
@@ -80,7 +84,7 @@ export const Schedule: Day[] = [
               >
                 Diagon Technologies, Ltd
               </a>
-              : Shridharan (Shri) Muthu
+              &nbsp;Shridharan (Shri) Muthu
             </p>
             <p className="mb-2">
               <a
@@ -91,7 +95,7 @@ export const Schedule: Day[] = [
               >
                 Pullflow
               </a>
-              : Zak Mandhro
+              &nbsp;Zak Mandhro
             </p>
             <p className="mb-2">
               <a
@@ -102,7 +106,7 @@ export const Schedule: Day[] = [
               >
                 Infinity Keys
               </a>
-              : Andy Boyan
+              &nbsp;Andy Boyan
             </p>
             <p className="mb-2">
               <a
@@ -113,7 +117,7 @@ export const Schedule: Day[] = [
               >
                 Inkworks
               </a>
-              : Jose Lopez
+              &nbsp;Jose Lopez
             </p>
             <p className="mb-2">
               <a
@@ -124,7 +128,7 @@ export const Schedule: Day[] = [
               >
                 MarvelBus
               </a>
-              : Asher Eastham
+              &nbsp;Asher Eastham
             </p>
             <p className="mb-2">
               <a
@@ -135,7 +139,7 @@ export const Schedule: Day[] = [
               >
                 BuildPass
               </a>
-              : Matt Perrott
+              &nbsp;Matt Perrott
             </p>
             <p className="mb-2">
               <a
@@ -146,7 +150,7 @@ export const Schedule: Day[] = [
               >
                 majr
               </a>
-              : Jamie Cannon
+              &nbsp;Jamie Cannon
             </p>
             <p className="mb-2">
               <a
@@ -157,7 +161,7 @@ export const Schedule: Day[] = [
               >
                 Constellation Notes
               </a>
-              : Bill O&apos;Connor
+              &nbsp;Bill O&apos;Connor
             </p>
             <p className="mb-2">
               <a
@@ -168,7 +172,7 @@ export const Schedule: Day[] = [
               >
                 Statapillar
               </a>
-              : Robin Tully
+              &nbsp;Robin Tully
             </p>
             <p className="mb-2">
               <a
@@ -179,7 +183,7 @@ export const Schedule: Day[] = [
               >
                 Teamstream
               </a>
-              : Kris Coulson
+              &nbsp;Kris Coulson
             </p>
             <p className="mb-2">
               <a
@@ -190,7 +194,7 @@ export const Schedule: Day[] = [
               >
                 Konfig
               </a>
-              : Anh-Tuan Bui
+              &nbsp;Anh-Tuan Bui
             </p>
             <p className="mb-2">
               <a
@@ -201,7 +205,7 @@ export const Schedule: Day[] = [
               >
                 Snaplet
               </a>
-              : Peter Pistorius
+              &nbsp;Peter Pistorius
             </p>
             <p className="mb-2">
               <a
@@ -212,7 +216,7 @@ export const Schedule: Day[] = [
               >
                 Nous
               </a>
-              Lee Staples
+              &nbsp;Lee Staples
             </p>
             <p className="mb-2">
               <a
@@ -223,7 +227,7 @@ export const Schedule: Day[] = [
               >
                 Everfund
               </a>
-              : Christopher Burns
+              &nbsp;Christopher Burns
             </p>
           </>
         ),
