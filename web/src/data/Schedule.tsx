@@ -220,7 +220,7 @@ export const Schedule: Day[] = [
             </p>
             <p className="mb-2">
               <a
-                href="#"
+                href="https://today.th90.net"
                 target="_blank"
                 rel="noreferrer"
                 className="underline text-blue-400 hover:text-blue-500"
