@@ -62,7 +62,7 @@ export const Schedule: Day[] = [
               >
                 Datasketch
               </a>
-              &nbsp;Juan Pablo Marin Diaz
+              &nbsp;JP Marin Diaz
             </p>
             <p className="mb-2">
               <a
@@ -73,7 +73,7 @@ export const Schedule: Day[] = [
               >
                 ItList
               </a>
-              &nbsp;Paul Korver
+              &nbsp;Kateryna Bilyk, Paul Korver, Stan Duprey
             </p>
             <p className="mb-2">
               <a
@@ -84,7 +84,7 @@ export const Schedule: Day[] = [
               >
                 BuildPass
               </a>
-              &nbsp;Matt Perrott
+              &nbsp;Aaron Vanston, Matt Perrott
             </p>
             <p className="mb-2">
               <a
@@ -95,7 +95,7 @@ export const Schedule: Day[] = [
               >
                 majr
               </a>
-              &nbsp;Jamie Cannon
+              &nbsp;Jamie Cannon, Jeremy Jones
             </p>
             <p className="mb-2">
               <a
@@ -106,7 +106,7 @@ export const Schedule: Day[] = [
               >
                 ATLAS
               </a>
-              &nbsp;Matt Dupree
+              &nbsp;Matt Dupree, David Laprade
             </p>
             <p className="mb-2">
               <a
@@ -117,7 +117,7 @@ export const Schedule: Day[] = [
               >
                 LeftLane
               </a>
-              &nbsp;Michael Mentele
+              &nbsp;Michael Mentele, Khaled Bitar
             </p>
             <p className="mb-2">
               <a
@@ -128,7 +128,7 @@ export const Schedule: Day[] = [
               >
                 Diagon
               </a>
-              &nbsp;Shridharan (Shri) Muthu
+              &nbsp;Shri Muthu, Will Drewery
             </p>
             <p className="mb-2">
               <a
@@ -139,7 +139,7 @@ export const Schedule: Day[] = [
               >
                 Infinity Keys
               </a>
-              &nbsp;Andy Boyan
+              &nbsp;Andy Boyan, Chris Bloom
             </p>
             <p className="mb-2">
               <a
@@ -150,7 +150,7 @@ export const Schedule: Day[] = [
               >
                 Inkworks
               </a>
-              &nbsp;Jose Lopez
+              &nbsp;Jose Lopez, Carl Ehrnrooth
             </p>
             <p className="mb-2">
               <a
@@ -205,7 +205,7 @@ export const Schedule: Day[] = [
               >
                 Konfig
               </a>
-              &nbsp;Anh-Tuan Bui
+              &nbsp;Anh-Tuan Bui, Dylan Huang
             </p>
             <p className="mb-2">
               <a
@@ -228,6 +228,17 @@ export const Schedule: Day[] = [
                 Today
               </a>
               &nbsp;Thomas Seillan
+            </p>
+            <p className="mb-2">
+              <a
+                href="https://usekeyp.com"
+                target="_blank"
+                rel="noreferrer"
+                className="underline text-blue-400 hover:text-blue-500"
+              >
+                Keyp
+              </a>
+              &nbsp;Joseph Schiarizzi
             </p>
             <p className="mb-2">
               <a
