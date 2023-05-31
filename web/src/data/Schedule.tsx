@@ -25,7 +25,14 @@ export const Schedule: Day[] = [
               their demos and experience with the community.
             </p>
             <p>
-              📣 A <span className="font-bold">BIG</span> announcement to follow the presentations!
+            <a
+                className="text-blue-400 underline"
+                target="_blank"
+                rel="noreferrer"
+                href="https://www.youtube.com/live/rx9jozroB8I"
+              >
+                Event Recording on YouTube 📺
+            </a>
             </p>
             <p className="mb-3 mt-6">
               <span className="font-bold text-xl">Participants</span><br />
@@ -206,17 +213,6 @@ export const Schedule: Day[] = [
                 Konfig
               </a>
               &nbsp;Anh-Tuan Bui, Dylan Huang
-            </p>
-            <p className="mb-2">
-              <a
-                href="https://everfund.com"
-                target="_blank"
-                rel="noreferrer"
-                className="underline text-blue-400 hover:text-blue-500"
-              >
-                Everfund
-              </a>
-              &nbsp;Christopher Burns
             </p>
             <p className="mb-2">
               <a
